@@ -1,0 +1,10 @@
+{
+  "secret": "skibidisigma",
+  "supervisor_conf_dir": "C:/supervisor/conf.d",
+  "projects": {
+    "AvidTennisCoach/Internal-Client-Management-Software": {
+      "path": "C:\\Users\\KSI\\projects\\Internal-Client-Management-Software",
+      "service": "clientsoftware"
+    }
+  }
+}
